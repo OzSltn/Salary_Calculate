@@ -1,4 +1,4 @@
-## Odev
+## Ödev
 - Muhasebe departmani için personel çalıştığı gün bilgisini girdiğinde bu girilen gün üzerinden maaşını hesaplayan ve eğer personel o ay için çalıştığı gün sayısı 25'ten fazla ise fazla olan her gün için ekstra 1000 tl prim veren metodu yazınız. Ödevinizi GitHub reposu olarak paylaşınız.
 
 **Ödev Adımları:**
